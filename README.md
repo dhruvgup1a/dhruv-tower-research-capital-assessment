@@ -4,9 +4,9 @@
 
 Hello Tower Research Capital Team, 
 
-I wanted to say that I had a great time working on this project and enjoyed the technical challenge. 
+I wanted to say that I had a great time working on this project and enjoyed the technical challenge! 
 
-I hope to use this page to explain how I went about this project on how it works:
+I hope to use this page to give a quick project overview on my approach:
 
     1. Parse the book text
         - This required me to use the necessary libraries to acquire text data on each book. While working on this project though, I noticed that it would be useful to save the metadata for the text which would include the chapter the text is from. 
@@ -33,7 +33,7 @@ When setting up the project, follow these steps:
        - source env/bin/activate
        - pip install -r requirements.txt
 
-**Before running the project, I would reccomend deleting the contents of the vectorDB/ directory everytime you try running the program. (I don't remember if it affects anything but I have been doing that while testing and tuning.)**
+**Before running the project, I would reccomend deleting the contents of the vectorDB/ directory everytime you try running the program. (I don't remember if it affects anything but I have been doing that during testing)**
 
 To run, just type in terminal: python main.py 
 
