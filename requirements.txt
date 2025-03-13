@@ -1,0 +1,22 @@
+openai==1.65.5
+langchain-community==0.3.19
+langchain-openai==0.3.8
+chromadb==0.6.3 
+
+ebooklib==0.18
+beautifulsoup4==4.13.3
+lxml==5.3.1 
+pdfplumber==0.11.5
+nltk==3.9.1
+fpdf==1.7.2
+
+sentence-transformers==3.4.1  
+python-dotenv==1.0.1  
+
+
+# FOR VM:
+# python -m venv env
+# source env/bin/activate
+# pip install -r requirements.txt
+# python main.py = run
+# deactivate = exit VM
