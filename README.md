@@ -23,7 +23,7 @@ I hope to use this page to give a quick project overview on my approach:
 
 Thank you for taking the time to go over my project and your consideration and I look forward hearing back you the team!
 
-**Please find the generated output from the program in the file called 'my_output.pdf'**
+**Please find the generated output from the program in the file called `my_output.pdf`**
 
 ## Instructions to run
 When setting up the project, follow these steps:
@@ -34,7 +34,7 @@ When setting up the project, follow these steps:
        - source env/bin/activate
        - pip install -r requirements.txt
 
-**Before running the project, I would reccomend deleting the contents of the vectorDB/ directory everytime you try running the program. (I don't remember if it affects anything but I have been doing that during testing)**
+**Before running the project, I would reccomend deleting the contents of the `vectorDB/` directory everytime you try running the program. (I don't remember if it affects anything but I have been doing that during testing)**
 
-To run, just type in terminal: python main.py 
+To run, just type in terminal: `python main.py` 
 
