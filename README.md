@@ -33,7 +33,7 @@ When setting up the project, follow these steps:
        - source env/bin/activate
        - pip install -r requirements.txt
 
-Before running the project, I would reccomend deleting the contents of the vectorDB directory everytime you try running the program. (I don't remember if it affects anything but I have been doing that while testing and tuning.)
+## Before running the project, I would reccomend deleting the contents of the vectorDB/ directory everytime you try running the program. (I don't remember if it affects anything but I have been doing that while testing and tuning.)
 
 To run, just type in terminal: python main.py 
 
