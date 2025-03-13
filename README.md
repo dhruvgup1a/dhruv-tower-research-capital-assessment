@@ -23,6 +23,7 @@ I hope to use this page to give a quick project overview on my approach:
 
 Thank you for taking the time to go over my project and your consideration and I look forward hearing back you the team!
 
+**Please find the generated output from the program in the file called 'my_output.pdf'**
 
 ## Instructions to run
 When setting up the project, follow these steps:
